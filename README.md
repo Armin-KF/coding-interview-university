@@ -115,17 +115,17 @@ For a complete CS self-taught program, the resources for my study plan have been
   - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
   - [A Note About Video Resources](#a-note-about-video-resources)
   - [Choose a Programming Language](#choose-a-programming-language)
-    - [For this Study Plan \[x\]](#for-this-study-plan-x)
-    - [For your Coding Interview \[x\]](#for-your-coding-interview-x)
-  - [Books for Data Structures and Algorithms \[x\]](#books-for-data-structures-and-algorithms-x)
+    - [For this Study Plan](#for-this-study-plan)
+    - [For your Coding Interview](#for-your-coding-interview)
+  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
     - [C](#c)
     - [Python](#python)
     - [Java](#java)
     - [C++](#c-1)
-  - [Interview Prep Books \[x\]](#interview-prep-books-x)
-    - [If you have tons of extra time: \[x\]](#if-you-have-tons-of-extra-time-x)
-  - [Don't Make My Mistakes \[x\]](#dont-make-my-mistakes-x)
-    - [1. You Won't Remember it All \[x\]](#1-you-wont-remember-it-all-x)
+  - [Interview Prep Books](#interview-prep-books)
+    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+  - [Don't Make My Mistakes](#dont-make-my-mistakes)
+    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
     - [2. Use Flashcards](#2-use-flashcards)
     - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
     - [4. Focus](#4-focus)
@@ -184,17 +184,17 @@ For a complete CS self-taught program, the resources for my study plan have been
   - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
   - [A Note About Video Resources](#a-note-about-video-resources)
   - [Choose a Programming Language](#choose-a-programming-language)
-    - [For this Study Plan \[x\]](#for-this-study-plan-x)
-    - [For your Coding Interview \[x\]](#for-your-coding-interview-x)
-  - [Books for Data Structures and Algorithms \[x\]](#books-for-data-structures-and-algorithms-x)
+    - [For this Study Plan](#for-this-study-plan)
+    - [For your Coding Interview](#for-your-coding-interview)
+  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
     - [C](#c)
     - [Python](#python)
     - [Java](#java)
     - [C++](#c-1)
-  - [Interview Prep Books \[x\]](#interview-prep-books-x)
-    - [If you have tons of extra time: \[x\]](#if-you-have-tons-of-extra-time-x)
-  - [Don't Make My Mistakes \[x\]](#dont-make-my-mistakes-x)
-    - [1. You Won't Remember it All \[x\]](#1-you-wont-remember-it-all-x)
+  - [Interview Prep Books](#interview-prep-books)
+    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+  - [Don't Make My Mistakes](#dont-make-my-mistakes)
+    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
     - [2. Use Flashcards](#2-use-flashcards)
     - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
     - [4. Focus](#4-focus)
@@ -315,7 +315,7 @@ but you'll also need to find a language that you can use to study computer scien
 
 Preferably the language would be the same, so that you only need to be proficient in one.
 
-### For this Study Plan [x]
+### For this Study Plan 
 
 When I did the study plan, I used 2 languages for most of it: C and Python
 
@@ -338,7 +338,7 @@ You may not need it, but here are some sites for learning a new language:
 - [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
 - [Programiz PRO Community Challenges)](https://programiz.pro/)
 
-### For your Coding Interview [x]
+### For your Coding Interview 
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
@@ -364,7 +364,7 @@ Read more about choices:
 
 **[⬆ back to top](#table-of-contents)**
 
-## Books for Data Structures and Algorithms [x]
+## Books for Data Structures and Algorithms 
 
 This book will form your foundation for computer science.
 
@@ -407,7 +407,7 @@ Your choice:
 
 **[⬆ back to top](#table-of-contents)**
 
-## Interview Prep Books [x]
+## Interview Prep Books 
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough,
 but I bought more to give myself more practice. But I always do too much.
@@ -421,7 +421,7 @@ I bought both of these. They gave me plenty of practice.
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
-### If you have tons of extra time: [x]
+### If you have tons of extra time: 
 
 Choose one:
 
@@ -432,13 +432,13 @@ Choose one:
 
 **[⬆ back to top](#table-of-contents)**
 
-## Don't Make My Mistakes [x]
+## Don't Make My Mistakes 
 
 This list grew over many months, and yes, it got out of hand.
 
 Here are some mistakes I made so you'll have a better experience. And you'll save months of time.
 
-### 1. You Won't Remember it All [x]
+### 1. You Won't Remember it All 
 
 I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
 through my notes and making flashcards, so I could review. I didn't need all of that knowledge.
